@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaper.mob.org%2Fimage%2Fanime-jujutsu_kaisen-sukuna_jujutsu_kaisen-1406790.html&psig=AOvVaw2t9KL0RSiHeRwKNxfro5wT&ust=1715762997785000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj2l7PhjIYDFQAAAAAdAAAAABAK"  />
+  <img height="150" src="sukuna.png"  />
 </div>
 
 ###
